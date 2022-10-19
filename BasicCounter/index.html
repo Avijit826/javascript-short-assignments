@@ -20,6 +20,15 @@
   </body>
 
   <script>
-    //write code here
+    const count = document.querySelector('#number');
+    count.innerHTML = 0;
+    function increase(){
+      let num = count.innerHTML;
+      count.innerHTML = ++num;
+    }
+    function decrease(){
+      let num = count.innerHTML;
+      count.innerHTML = --num;
+    }
   </script>
 </html>

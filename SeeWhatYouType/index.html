@@ -17,5 +17,13 @@
   </body>
   <script>
     //code here
+    function update(){
+      if(document.querySelector("#input").value == ''){
+        document.querySelector("#output").innerHTML = 'Input Box Is Empty... Start Typing';
+      }
+      else{
+        document.querySelector("#output").innerHTML = document.querySelector("#input").value;
+      }
+    }
   </script>
 </html>
