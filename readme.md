@@ -33,7 +33,7 @@
 
 - [Source Code](https://github.com/Avijit826/javascript-short-assignments/tree/master/Projects/06JokesGenerator%20-%20API)
 
-![](https://github.com/Avijit826/javascript-short-assignments/blob/master/images/4.png?raw=true)
+![](https://github.com/Avijit826/javascript-short-assignments/blob/master/images/4.jpg?raw=true)
 
 ## QR Generator
 
